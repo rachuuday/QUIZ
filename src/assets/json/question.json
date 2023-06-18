@@ -1,0 +1,58 @@
+{
+    "questions":[
+{
+"question":"1.Which of the following statement is correct for AngularJS?",
+"choices":["AngularJS is an HTML framework","AngularJS is a Java framework","AngularJS is a JavaScript framework","AngularJS is a SQL framework"],
+"correctAnswer":"AngularJS is a JavaScript framework"
+},
+{
+    "question":"2. On which of the Architectural pattern AngularJS is based?",
+    "choices":["Observer Pattern","Decorator pattern","MVC Architecture pattern","MVVM Architectural pattern"],
+    "correctAnswer":"MVVM Architectural pattern"
+},
+{
+    "question":"3.AngularJS is perfect for?",
+    "choices":["SPAs","MPAs","DPAs","CPAs"],
+    "correctAnswer":"SPAs"
+},
+{
+    "question":"4.Which of the following is the correct syntax for writing AngularJS expressions?",
+    "choices":["(expression)","{{expression}}","{{{expression}}}","[expression]"],
+    "correctAnswer":"{{expression}}"
+},
+{
+    "question":"5.Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+    "choices":["ng-bind directive","ng-app directive","ng-model directive","ng-init directive"],
+    "correctAnswer":"ng-bind directive"
+},
+{
+    "question":"6.What is the use of Angular Controllers in the application?",
+    "choices":["Angular controllers are used for controlling the data.","Angular controllers are used for displaying the data.","Both of the above are correct.","None of the above is correct."],
+    "correctAnswer":"None of the above is correct."
+},
+{
+    "question":"7.Which of the following is used to share data between controller and view in AngularJS?",
+    "choices":["using Model","using services","using factory","using $scope"],
+    "correctAnswer":"using services"
+},
+{
+    "question":"8.Which of the following is not a valid AngularJS filter?",
+    "choices":["lowercase","orderby","email","currency"],
+    "correctAnswer":"email"
+},
+{
+    "question":"9.Who is known as the father of AngularJS?",
+    "choices":["Brad Green","Misko Hevery","Adam Abrons","Mike Adams"],
+    "correctAnswer":"Misko Hevery"
+},
+{
+    "question":"10. Which of the following community Angular JS belong to?",
+    "choices":["Twitter","Facebook","Google","Microsoft"],
+    "correctAnswer":"Google"
+
+}]
+}
+
+
+
+
